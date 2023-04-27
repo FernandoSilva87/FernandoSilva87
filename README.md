@@ -12,5 +12,5 @@ e iniciando o aprendizado de:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="java-logo"><br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"> <br>
 <br>
-[![Nandions Stats](https://github-readme-stats.vercel.app/api?username=nandions)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandions)](https://github.com/anuraghazra/github-readme-stats)
+[![Fernando Stats](https://github-readme-stats.vercel.app/api?username=FernandoSilva87)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSilva87)](https://github.com/anuraghazra/github-readme-stats)
